@@ -1,6 +1,6 @@
 ### \`Hello, ${name}\`
 
-🔭 Currently working on [Fetchly labs](https://fetch.ly/).
+🔭 Currently working at [Retail hub](https://www.retailhub.com.br/).
 
 #### Reach me! 📫
 - [Email](mailto:victor@rhwd.dev)
